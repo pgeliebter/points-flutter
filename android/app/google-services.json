@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "692736075102",
+    "project_id": "points-4bc32",
+    "storage_bucket": "points-4bc32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692736075102:android:e2851119ffabc594101bcf",
+        "android_client_info": {
+          "package_name": "com.mycompany.points"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692736075102-jf2f9bklm56hkfib18qststg34fjp4eb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsp8-dDSz97wAcdu0v7ADrp-AAefk94Iw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "692736075102-jf2f9bklm56hkfib18qststg34fjp4eb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "692736075102-jt2one6mnoc7fdaa7nheueorgnagh465.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.points"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
